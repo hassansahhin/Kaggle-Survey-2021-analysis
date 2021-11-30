@@ -16,6 +16,6 @@ As I consider they were the most impacted by at least one of the Egyptian govern
 * (Q3) Investigating the chartaristics and background of the Egyptain Juniors
 * (Q4)What can we offer to our employers
 ## Contribution
-Pulling request most appreciated to add more insights of even to do a proofreading for the notebook
+Pulling request most appreciated to add more insights of even to do a proofreading for the notebook.
 
 
